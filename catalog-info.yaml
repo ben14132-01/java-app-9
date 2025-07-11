@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: ben14132-01/java-app-9
     backstage.io/techdocs-ref: dir:.
+    'jenkins.io/job-full-name': teamA/artistLookup-build
 spec:
   type: service
   owner: development
