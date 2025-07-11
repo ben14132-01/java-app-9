@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: java-app-9
+  description: java springboot app for users - named java-app-9
+  annotations:
+    github.com/project-slug: ben14132-01/java-app-9
+    backstage.io/techdocs-ref: dir:.
+spec:
+  type: service
+  owner: development
+  lifecycle: experimental
